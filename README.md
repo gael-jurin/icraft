@@ -1,2 +1,2 @@
-# icrafted some kibs-Logs
-docker-ops
+# Kibana docker image with logtrail plugin.
+
